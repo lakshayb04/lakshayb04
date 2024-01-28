@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshay</h1>
 <h3 align="center">Pre-Final Year Undergrad At BIT Mesra</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
